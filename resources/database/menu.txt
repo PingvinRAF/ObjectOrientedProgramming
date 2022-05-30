@@ -1,0 +1,38 @@
+BURGER
+Hamburger $8.25
+beef,mayo,onion,tomato
+BaconCheeseburger $8.50
+beef,bacon,mozzarella,cheddar
+VeggieBurger $7.00
+tomato,onion,lettuce,garlic,mayo
+
+PASTA
+SpaghettiBolognese $8.10
+ground meat,tomato,cheese,onion
+Carbonara $8.50
+cream,cheese,egg,bacon 
+
+PIZZA
+Pepperoni $7.10
+pepperoni,cheese
+Capricciosa $7.50
+cheese,olive,mushrooms,ham
+Paesano $8.50
+cheese,ham,bacon,mushrooms,feta
+
+DESSERT
+AppleCrumble $5.00
+apple,grapes,cinnamon,ice cream
+Tiramisu $3.90
+coffee,almond liqueur,wine
+CheeseCake $4.20
+biscuit,raspberry,mascarpone
+
+DRINKS
+Cappuccino $3.50
+GreenTea $2.00
+Coke $3.00
+Sprite $3.00
+Gin $4.00
+Vodka $4.00
+WhiteWine $4.50
