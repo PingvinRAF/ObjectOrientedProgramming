@@ -1,4 +1,4 @@
-package rs.pingvin.d11.view.layout.config;
+package rs.pingvin.d11.view.form.config;
 
 import javafx.scene.text.Font;
 

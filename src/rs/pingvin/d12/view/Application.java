@@ -1,8 +1,8 @@
-package rs.pingvin.d11.view;
+package rs.pingvin.d12.view;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import rs.pingvin.d11.view.form.Form;
+import rs.pingvin.d12.view.form.Form;
 
 public class Application extends javafx.application.Application {
 
@@ -13,9 +13,11 @@ public class Application extends javafx.application.Application {
     }
 
     @Override
-    public void start(Stage stage) {
-        window = stage;
-        setForm(Form.logInForm());
+    public void start(Stage primaryStage) {
+        window = primaryStage;
+
+        setForm(Form.mainForm());
+
         window.show();
     }
 

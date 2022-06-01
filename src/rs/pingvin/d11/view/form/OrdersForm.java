@@ -1,4 +1,4 @@
-package rs.pingvin.d11.view.layout;
+package rs.pingvin.d11.view.form;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -14,7 +14,7 @@ import rs.pingvin.d11.database.DbCart;
 import rs.pingvin.d11.database.DbOrders;
 import rs.pingvin.d11.model.Order;
 import rs.pingvin.d11.view.Application;
-import rs.pingvin.d11.view.layout.config.Config;
+import rs.pingvin.d11.view.form.config.Config;
 
 class OrdersForm extends TilePane {
 

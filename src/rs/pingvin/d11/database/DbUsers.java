@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class DbUsers {
 
-    private static final String fullFilePath = "resources/database/users.txt";
+    private static final String fullFilePath = "resources/database/D11/users.txt";
 
     private static List<User> users = new ArrayList<>();
 

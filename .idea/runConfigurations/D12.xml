@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="D12" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="rs.pingvin.d12.Main" />
+    <module name="ObjektnoOrjentisanoProgramiranje" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

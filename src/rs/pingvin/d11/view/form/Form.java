@@ -1,4 +1,4 @@
-package rs.pingvin.d11.view.layout;
+package rs.pingvin.d11.view.form;
 
 import javafx.scene.Scene;
 

@@ -13,10 +13,10 @@ import java.util.Scanner;
 
 public class DbMenuItems {
 
-    private static final String fullFilePath = "resources/database/menu.txt";
+    private static final String fullFilePath = "resources/database/D11/menu.txt";
 
-    private static List<FoodItem>  foodItems  = new ArrayList<>(); //NOTE Check FoodItem or MenuItem
-    private static List<DrinkItem> drinkItems = new ArrayList<>(); //NOTE Check DrinkItem or MenuItem
+    private static List<FoodItem>  foodItems  = new ArrayList<>();
+    private static List<DrinkItem> drinkItems = new ArrayList<>();
     private static List<MenuItem>  menuItems  = new ArrayList<>();
 
     public static void load() {

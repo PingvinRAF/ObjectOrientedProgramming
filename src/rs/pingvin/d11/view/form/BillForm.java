@@ -1,4 +1,4 @@
-package rs.pingvin.d11.view.layout;
+package rs.pingvin.d11.view.form;
 
 import javafx.collections.FXCollections;
 import javafx.geometry.Insets;
@@ -13,7 +13,7 @@ import javafx.scene.layout.VBox;
 import rs.pingvin.d11.database.DbCart;
 import rs.pingvin.d11.model.MenuItem;
 import rs.pingvin.d11.view.Application;
-import rs.pingvin.d11.view.layout.config.Config;
+import rs.pingvin.d11.view.form.config.Config;
 
 class BillForm extends TilePane {
 

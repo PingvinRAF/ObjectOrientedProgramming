@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="D11" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="rs.pingvin.d11.Main" />
+    <module name="ObjektnoOrjentisanoProgramiranje" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="rs.pingvin.d11.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

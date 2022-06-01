@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class DbOrders {
 
-    private static final String fullFilePath = "resources/database/orders.txt";
+    private static final String fullFilePath = "resources/database/d11/orders.txt";
 
     private static List<Order> orders = new ArrayList<>();
 

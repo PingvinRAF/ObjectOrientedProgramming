@@ -1,4 +1,4 @@
-package rs.pingvin.d11.view.layout;
+package rs.pingvin.d11.view.form;
 
 import javafx.collections.FXCollections;
 import javafx.geometry.Insets;
@@ -23,7 +23,7 @@ import rs.pingvin.d11.model.Category;
 import rs.pingvin.d11.model.DrinkItem;
 import rs.pingvin.d11.model.FoodItem;
 import rs.pingvin.d11.view.Application;
-import rs.pingvin.d11.view.layout.config.Config;
+import rs.pingvin.d11.view.form.config.Config;
 
 import java.util.ArrayList;
 import java.util.List;
